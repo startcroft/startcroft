@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there, Welcome to my code world 👋
+
+<img src="https://enupal.com/assets/blog/%E2%80%9C-Sabes-cu%C3%A1l-es-el-problema_-Imaginarte-el-algoritmo-y-no-programarlo%E2%80%9D-%E2%80%93-Paul-Huanca.png" />
 
 <!--
-**startcroft/startcroft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
