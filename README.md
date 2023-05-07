@@ -5,6 +5,9 @@
 🔭 I’m currently working on a landing page with React 😀
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5/orange" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css3/blue" /> 	<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/yellow" /> <img height="32" width="32" src="https://cdn.simpleicons.org/createreactapp/skyblue" /> <img height="32" width="32" src="https://cdn.simpleicons.org/sass/pink" />
+
+📫 How to reach me:  
+<a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin"> <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/skyblue" /> </a>
 	
 
 
